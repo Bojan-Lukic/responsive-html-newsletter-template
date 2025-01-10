@@ -26,7 +26,7 @@
     <a href="https://github.com/Bojan-Lukic/responsive-html-newsletter-template">
       <img src="res/logo.png" alt="Logo" width="150" height="150">
     </a><br />
-    <figcaption><sub>Icon made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev">Vitaliy Gorbachev</a> from www.flaticon.com.</sub></figcaption>
+    <figcaption><sub>Icon made by <a href="https://www.freepik.com/">Freepik</a> from www.flaticon.com.</sub></figcaption>
   </figure>
 
 <h3 align="center">A lightweight and responsive html email newsletter template</h3>
