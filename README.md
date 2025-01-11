@@ -32,7 +32,7 @@
 <h3 align="center">A lightweight and responsive html email newsletter template</h3>
 
   <p align="center">
-    This template consists of one html file which has its style embedded into it. No JavaScript, not additional files, pure bliss. 
+    This responsive template consists of one html file which has its style embedded into it. No JavaScript, not additional files, pure bliss. 
     <br />
     <a href="https://github.com/Bojan-Lukic/responsive-html-newsletter-template/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A very lightweight and easy to use html newsletter template. Only one html file is used for the whole newsletter. All css properties are embedded within the single html file, nothing more. The template is responsive and dynamically changes its layout depending on the display format. Tested woth several browsers and different devices. 
+A very lightweight and easy to use html newsletter template. Only one html file is used for the whole newsletter. All css properties are embedded within the single html file, nothing more. The template is responsive and dynamically changes its layout depending on the display format. Tested with several browsers, different devices, and different window sizes. 
 
 <br />
 
