@@ -32,7 +32,7 @@
 <h3 align="center">A lightweight and responsive html email newsletter template</h3>
 
   <p align="center">
-    Analyzing signals from automotive software systems by dividing the signals into parts using variance based segmentation algorithms.
+    This template consists of one html file which has its style embedded into it. No JavaScript, not additional files, pure bliss. 
     <br />
     <a href="https://github.com/Bojan-Lukic/responsive-html-newsletter-template/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
